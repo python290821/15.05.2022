@@ -1654,3 +1654,69 @@
   label: 'main module',
   timestamp: '2022-05-15T17:10:29.992Z'
 }
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T17:19:45.007Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T17:19:45.015Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T17:21:02.350Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T17:21:02.360Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T17:21:08.844Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T17:21:08.853Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T17:21:45.584Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T17:21:46.737Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T17:22:41.567Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T17:22:41.574Z'
+}
+{
+  message: 'failed to run raw. Error: error: aaaaaaaa select * from movies2 where id > 3 - syntax error at or near "aaaaaaaa"',
+  level: 'error',
+  label: 'main module',
+  timestamp: '2022-05-15T17:23:30.514Z'
+}

@@ -1,6 +1,8 @@
 //const winston = require('winston');
 const { createLogger, format, transports } = require('winston');
 const { combine, timestamp, label, prettyPrint } = format;
+const config = require('config')
+const logger_config = config.get('logger')
 
 const logConfiguration =  {
     format: combine(
@@ -10,8 +12,8 @@ const logConfiguration =  {
     ),
     'transports': [
         // save to console
-        new transports.Console({ level: 'info' }),
-        new transports.File({ filename: 'logs.log', level: 'debug' })
+        new transports.Console({ level: logger_config.console_level }),
+        new transports.File({ filename: logger_config.file_name, level: logger_config.file_level })
     ]
 }
 
