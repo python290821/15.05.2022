@@ -13,6 +13,7 @@ const logConfiguration =  {
     'transports': [
         // save to console
         new transports.Console({ level: logger_config.console_level }),
+        // save to file
         new transports.File({ filename: logger_config.file_name, level: logger_config.file_level })
     ]
 }
