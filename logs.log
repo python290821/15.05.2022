@@ -70,3 +70,1059 @@
   label: 'main module',
   timestamp: '2022-05-15T15:22:12.478Z'
 }
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:17.732Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:17.745Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:20.237Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:20.246Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:39.834Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:39.850Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:44.053Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:44.064Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:48.149Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:48.158Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:51.622Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:51.634Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:54.067Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:54.077Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:58.411Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:35:58.422Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:02.257Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:02.266Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:15.854Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:15.863Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:19.385Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:19.394Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:21.779Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:21.789Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:25.404Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:25.415Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:27.207Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:27.216Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:32.710Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:36:32.719Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:08.007Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:08.017Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:09.307Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:09.318Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:19.389Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:19.398Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:30.752Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:30.762Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:33.586Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:33.595Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:44.242Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:44.252Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:46.173Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:46.183Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:47.004Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:47.013Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:53.247Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:53.257Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:56.611Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:37:56.621Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:38:00.202Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:38:00.211Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:38:05.359Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:38:05.369Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:39:38.729Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:39:38.739Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:39:41.880Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:39:41.892Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:39:45.137Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:39:45.149Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:05.109Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:05.118Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:09.596Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:09.608Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:13.217Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:13.229Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:17.577Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:17.587Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:26.414Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:26.426Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:58.798Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:40:58.808Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:00.345Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:00.354Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:17.667Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:17.679Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:20.736Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:20.746Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:25.815Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:25.824Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:28.428Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:28.437Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:34.531Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:34.540Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:50.209Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:41:50.218Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:11.956Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:11.966Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:15.494Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:15.504Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:19.492Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:19.502Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:26.760Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:26.769Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:32.983Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:32.993Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:35.734Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:35.743Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:41.585Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:42:41.593Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:10.931Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:10.941Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:14.413Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:14.423Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:18.262Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:18.273Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:28.822Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:28.833Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:36.076Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:36.085Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:47.482Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:43:47.491Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:00.873Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:00.882Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:04.262Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:04.279Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:43.190Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:43.200Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:56.552Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:56.563Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:59.654Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:44:59.668Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:03.553Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:03.563Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:43.728Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:43.737Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:47.435Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:47.444Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:56.604Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:56.614Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:59.817Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:45:59.828Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:46:01.583Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:46:01.597Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:46:03.000Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:46:03.010Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:46:05.531Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:46:05.543Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:47:40.341Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:47:40.350Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:47:42.775Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:47:42.789Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:47:57.639Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:47:57.649Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:01.905Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:01.918Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:32.993Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:33.004Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:34.539Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:34.550Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:44.379Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:44.392Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:48.293Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:48.304Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:59.038Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:48:59.052Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:49:04.571Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:49:04.585Z'
+}
+{
+  message: "failed to insert movie. Error: Error: insert into `PRODUCTS` (`PRICE`, `TITLE`) values (45, 'WONDER WOMAN 1984!!!!') - SQLITE_CONSTRAINT: NOT NULL constraint failed: PRODUCTS.RATING",
+  level: 'error',
+  label: 'main module',
+  timestamp: '2022-05-15T15:54:32.651Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:55:50.437Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:55:50.458Z'
+}
+{
+  message: "failed to update movie. Error: Error: update `PRODUCTS` set `ID` = 1, `TITLE` = 'WONDER WOMAN 1984!', `PRICE` = 45 where `id` = '2' - SQLITE_CONSTRAINT: UNIQUE constraint failed: PRODUCTS.ID",
+  level: 'error',
+  label: 'main module',
+  timestamp: '2022-05-15T15:58:08.480Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:09.136Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:09.154Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:11.621Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:11.633Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:17.859Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:17.869Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:38.874Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:59:38.883Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T16:00:22.116Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T16:00:22.132Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T16:00:47.705Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T16:00:47.716Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T16:02:39.684Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T16:02:39.695Z'
+}
