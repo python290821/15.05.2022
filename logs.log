@@ -1720,3 +1720,15 @@
   label: 'main module',
   timestamp: '2022-05-15T17:23:30.514Z'
 }
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T17:24:59.746Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T17:24:59.755Z'
+}
