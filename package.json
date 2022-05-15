@@ -16,6 +16,7 @@
     "knex": "^2.0.0",
     "pg": "^8.7.3",
     "sqlite3": "^5.0.8",
+    "swagger-ui-express": "^4.4.0",
     "winston": "^3.7.2"
   }
 }

@@ -15,6 +15,13 @@ app.use(express.json())
 
 app.use(express.urlencoded({ extended: true }))
 
+var swaggerUi = require('swagger-ui-express'),
+    swaggerDocument = require('./swagger.json');
+
+    // http://localhost:8080/api-docs/#/
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
+//app.use('/api/v1', router);
+
 app.get('/movies', async(req, res) => {
     const movies = await moveis_repo.getAllMovies()
     res.status(200).json( {movies })
