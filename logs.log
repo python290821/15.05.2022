@@ -4,3 +4,69 @@
   label: 'main module',
   timestamp: '2022-05-15T14:55:05.080Z'
 }
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:16:04.319Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:20:29.884Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:20:49.912Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:20:52.755Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:20:52.767Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:20:55.061Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:20:55.072Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:21:04.612Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:21:04.623Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-05-15T15:22:12.467Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-05-15T15:22:12.478Z'
+}
