@@ -20,6 +20,23 @@ app.get('/movies', async(req, res) => {
     res.status(200).json( {movies })
 })
 
+app.post('/movies/raw', async(req, res) => {
+    try {
+        input = req.body
+        const result = await moveis_repo.getRaw(input.query)
+        res.status(201).json( {
+            res: 'success',
+            raws: result.rows
+             })
+    } catch (e) {
+        logger.error(`failed to run raw. Error: ${e}`)
+        res.status(400).send({
+            status: 'error',
+            message: e.message
+        })
+    }
+})
+
 app.get('/movies/:movie_id', async(req, res) => {
     const movie_id = req.params.movie_id
     const movies = await moveis_repo.getMovieByid(movie_id)

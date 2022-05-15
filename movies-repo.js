@@ -5,28 +5,34 @@ const connectedKnex = require('./knex-connector')
 // orm + sp
 
 function getAllMovies() {
-    return connectedKnex('PRODUCTS').select('*');
+    return connectedKnex('movies2').select('*');
 }
 
 function getMovieByid(id) {
-    return connectedKnex('PRODUCTS').select('*').where('id', id).first();
+    return connectedKnex('movies2').select('*').where('id', id).first();
+}
+
+function getRaw(query) {
+    // run native sql query
+    return connectedKnex.raw(query);
 }
 
 function addMovie(movie) {
-    return connectedKnex('PRODUCTS').insert(movie);
+    return connectedKnex('movies2').insert(movie);
 }
 
 function updateMovie(movie, id) {
-    return connectedKnex('PRODUCTS').where('id', id).update(movie);
+    return connectedKnex('movies2').where('id', id).update(movie);
 }
 
 function deleteMovie(id) {
-    return connectedKnex('PRODUCTS').where('id', id).del();
+    return connectedKnex('movies2').where('id', id).del();
 }
 
 module.exports = {
     getAllMovies,
     getMovieByid,
+    getRaw,
     addMovie,
     updateMovie,
     deleteMovie

@@ -1,9 +1,13 @@
 const knex = require('knex')
 
 const connectedKnex = knex({
-    client: 'sqlite3',
+    client: 'pg',
+    version: '13',
     connection: {
-        filename: 'db1.db'
+        host: '127.0.0.1',
+        user: 'postgres',
+        password: 'admin',
+        database: 'postgres'
     }
 })
 
